@@ -15,7 +15,7 @@ wokwi.toml
 1. Instale o SDK do Raspberry Pi Pico seguindo as instruções [aqui](https://github.com/raspberrypi/pico-sdk).
 2. Clone este repositório:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/Lawtrel/Temporizador-periodico---disparo-unico.git
    cd Temporizador
 
    
