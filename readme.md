@@ -18,4 +18,18 @@ wokwi.toml
    git clone https://github.com/Lawtrel/Temporizador-periodico---disparo-unico.git
    cd Temporizador
 
-   
+## Compilação e Upload
+1. Crie um diretório de build e navegue até ele:
+   ```sh
+   mkdir build
+   cd build
+   ```
+2. Execute o CMake para configurar o projeto:
+   ```sh
+   cmake ..
+   ```
+3. Compile o projeto:
+   ```sh
+   make
+   ```
+4. Faça o upload do arquivo `.uf2` gerado para o Raspberry Pi Pico.
